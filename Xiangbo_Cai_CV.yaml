@@ -17,7 +17,7 @@ cv:
         start_date: 2023-08
         end_date: 2026-12
         highlights:
-          - 'GPA: 3.89/4.00'
+          - 'GPA: 3.89/4.00 ([Transcript](https://github.com/caishamble/resume_cv/blob/main/OfficialTranscript.PDF))'
           - 'Dean''s List: 2023-2024, Honors College'
           - '**Coursework:** Python, C/C++, Verilog, Algorithm & Data Structure, Digital Logic, Microprocessor Design, Embedded System, Circuits Analysis, Discrete Structure, Probability, Linear Algebra, Multivariable Calculus'
     experience:
@@ -45,9 +45,9 @@ cv:
         start_date: 2024-08
         end_date: 2024-12
         highlights:
-          - Managed MSU’s College Algebra MTH 103 by teaching math concepts and mentoring 300+ students
-          - Provided teaching 5 hours each week with detailed feedback and work more than 2 hours in math learning center
-          - Answered students' questions with clear explanations confirming College Algebra mastery and led offline office hours
+          - Managed MSU’s College Algebra MTH 103 by teaching math concepts and mentoring 300+ students in math department
+          - Provided teaching 2 class recitation each week with detailed feedback and tutor more than 2 hours in math learning center
+          - Answered students' questions with clear explanations confirming College Algebra mastery and led online and offline office hours
       - company: Outlier AI
         position: LLM Developer & Trainer
         location: Remote
@@ -85,7 +85,8 @@ cv:
         authors:
           - '***Xiangbo Cai***'
           - Peter Pena
-        doi: 10.36227/techrxiv.172349491.18651928/v1
+        doi: 10.2139/ssrn.4921697
+        
         date: 2024-08
       - title: Advanced Pipeline Inspection Robot Development Utilizing Non-Destructive Evaluation and Simulated with Verilog
         authors:
