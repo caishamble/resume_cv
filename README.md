@@ -1,1 +1,1 @@
-Update at 1/6/2025, use repo https://github.com/rendercv/rendercv
+Update at 1/9/2025, use repo https://github.com/rendercv/rendercv
