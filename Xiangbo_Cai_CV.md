@@ -12,35 +12,35 @@
 ## Michigan State University, BS in Computer Engineering
 
 - Aug 2023 – Dec 2026
-- GPA: 3.89/4.00 ([Transcript](https://github.com/caishamble/resume_cv/blob/main/OfficialTranscript.PDF))
-- Dean's List: 2023-2024, Honors College
-- **Coursework:** Python, C/C++, Verilog, Algorithm & Data Structure, Digital Logic, Microprocessor Design, Embedded System, Circuits Analysis, Discrete Structure, Probability, Linear Algebra, Multivariable Calculus
+- GPA: 3.916/4.00 ([Transcript](https://github.com/caishamble/resume_cv/blob/main/OfficialTranscript.PDF))
+- Dean’s List Scholar, Dean’s Showcase of Stars Scholar, Honors College, Wielenga Scholar, NDE Lab Research
+- **Coursework:** Embedded Systems, Digital Logic Design, FPGA & ASIC Design, Microcontrollers & Microprocessors,Computer Architecture, Circuit Analysis, C/C++, Verilog, Signal Processing, Algorithm & Data Structures, Python
 
 # Experience
 
 ## MSU Non-Destructive Evaluation Laboratory, Research Assistant
 
-- Oct 2023 – Dec 2024
+- Oct 2023 – May 2025
 - East Lansing, MI
-- Researched under Dr. Yiming Deng in works related to NDE, electromagnetism in the electrical engineering field
-- Developed 3+ NDE techniques for curved pipeline via electromagnetism, PCB design and hardware circuit implementation
-- Utilized CAD software, such as OnShape \\& SolidWorks, to design structures for NDE instruments for PCB in the pipeline
+- Conducted research on Non-destructive evaluation (NDE), specializing in electromagnetic sensing and embedded hardware for pipeline inspection under Dr. Yiming Deng
+- Designed and implemented PCB-based embedded circuits, performed schematic design, circuit simulations, debugging, and prototyping to optimize sensing accuracy and reliability
+- Integrated hardware component into pipeline inspection using CAD software (OnShape & SolidWorks)
 
 ## MSU Department of Computer Science & Engineering, Research Assistant
 
-- Aug 2024 – Dec 2024
+- Aug 2024 – May 2025
 - East Lansing, MI
-- Researched under the guidance of Dr. Zhichao Cao in works related to IoT, embedded system in the computer science field
-- Currently working on embedded development with the nRF52840 board, simulating Bluetooth PDM data transmission and collection, and using Python for data processing. The results work will be applied on Bluetooth audio authentication
-- Working in a group of 5 (most PhD students) and planning to present and publish research paper by the end of the semester
+- Conducting research in embedded systems and IoT under Dr. Zhichao Cao, specializing in low-power Bluetooth wireless communication and real-time signal processing
+- Developing embedded firmware on the nRF52840 platform to collect PDM data via Bluetooth and UART and perform data processing using Python, aimed at real-time Bluetooth audio authentication
+- Collaborating with a team of 5 PhD students to conduct research, targeting publication and potential patent by the end of the semester
 
 ## MSU Department of Mathematics, Teaching Assistant
 
 - Aug 2024 – Dec 2024
 - East Lansing, MI
-- Managed MSU’s College Algebra MTH 103 by teaching math concepts and mentoring 300+ students in math department
-- Provided teaching 2 class recitation each week with detailed feedback and tutor more than 2 hours in math learning center
-- Answered students' questions with clear explanations confirming College Algebra mastery and led online and offline office hours
+- Managed MSU’s MTH 103 (College Algebra) class by teaching math concepts and mentoring 300+ students
+- Provided teaching 5 hours each week with detailed feedback and work more than 2 hours in math learning center
+- Answered students' questions with clear explanations confirming College Algebra mastery and led offline office hours
 
 ## Outlier AI, LLM Developer & Trainer
 
@@ -76,7 +76,7 @@
 - Simulated a 74LS161 integrated circuit to create a hexadecimal counter using Visual-Based Multisim and Verilog.
 - Tools Used: Multisim, Verilog
 
-# Publications
+# Publications/Pre-print
 
 ## Simulations of Hexadecimal Counters via the 74LS161 Integrated Circuit - Applications of Visual-Based Multisim and Verilog Projections ([10.2139/ssrn.4921697](https://doi.org/10.2139/ssrn.4921697))
 - Aug 2024
@@ -86,7 +86,11 @@
 - July 2024
 - ***Xiangbo Cai***
 
+## Verilog vs. C for Matrix Multiplication':' A Performance Comparison on FPGA and ARM CPU ([10.13140/RG.2.2.32015.50082](https://doi.org/10.13140/RG.2.2.32015.50082))
+- May 2025
+- ***Xiangbo Cai***, Chenxin Zhang
+
 # Skills
 
-- Languages: C++/C, Python, Verilog, JavaScript, Dart
-- Technologies: Git, MATLAB, SolidWorks, OnShape, Multisim, SPICE, \LaTeX, Flutter, Jupyter Notebook, Android Studio, Microsoft Office Suite
+- Skills Proficient: Python | C/C++ | LaTeX | SPICE | Verilog | OnShape | MATLAB | Wolfram Mathematica | Git | Microsoft Suite
+- Skills Familiar: Dart | Flutter | HTML | CSS | JavaScript | SolidWorks | Altium Design | SQL | Jupyter Notebook | NI Multisim | Machine Learning
